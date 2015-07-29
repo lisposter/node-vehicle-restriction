@@ -7,4 +7,4 @@ module.exports = {
   normalize: base.normalize
 };
 
-exports.hangzhou = exports.hz = hangzhou;
+module.exports.hangzhou = module.exports.hz = hangzhou;
