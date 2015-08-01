@@ -13,7 +13,13 @@ $ npm install vehicle-restriction
 
 ## Example
 
-## Usage
+```js
+const vr = require('vehicle-restriction');
+
+console.log(vr.hz.isRestricted('浙A·F8965', 5));
+// ==> true
+
+```
 
 ## License
 
