@@ -1,6 +1,6 @@
 {
   "name": "vehicle-restriction",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "calc vehicle restriction rule",
   "main": "index.js",
   "dependencies": {

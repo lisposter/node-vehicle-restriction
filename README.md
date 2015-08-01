@@ -38,7 +38,7 @@ eg: if the module was required as `vr`, Hangzhou will be `vr.hz` or `vr.hangzhou
 
 #### APIs
 
-##### .isRestricted(plate, dat)
+##### .isRestricted(plate, day)
 
 __Params:__
 * `plate`<String>: String of the vehicle's plate, supported format: `浙A·F8965`, `浙A-F8965`, `浙A F8965` or `浙AF8965`.
