@@ -8,7 +8,7 @@ calc vehicle restriction rule
 ## Installation
 
 ```bash
-$ npm install node-vehicle-restriction
+$ npm install vehicle-restriction
 ```
 
 ## Example
